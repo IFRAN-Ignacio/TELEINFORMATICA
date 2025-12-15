@@ -1,10 +1,17 @@
+.presentacion {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    
+}
+
 .titulo{
     color: red;
     text-align: center;
 }
 
-
 .carita {
     width: 100px;
     height: auto;
+    
 }
